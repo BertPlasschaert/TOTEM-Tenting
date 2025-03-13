@@ -1,3 +1,9 @@
+# The Tenting case has been [merged](https://github.com/GEIGEIGEIST/TOTEM/pull/20) into the main project!
+You can find the latest version of the source code [inside the Totem repository](https://github.com/GEIGEIGEIST/TOTEM), where it will continue to be maintained.
+This repo will be archived.
+
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="/docs/images/TOTEM_logo_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="/docs/images/TOTEM_logo_bright.svg">
