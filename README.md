@@ -12,7 +12,7 @@ This repo will be archived.
 
 <h1 align="center">T O T E M</h1>
 
-TOTEM is a 38 key column-staggered choc split keyboard. It is meant to be used with a SEEED XIAO BLE or RP2040.
+TOTEM is a 38 key column-staggered choc split keyboard. It is meant to be used with a [Seeed Studio XIAO nRF52840 BLE](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) or [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html).
 It was created for the SEEED XIAO keyboard contest.\
 [Here](https://www.hackster.io/geist/totem-a-tiny-splitkeyboard-with-splay-cb2e43) you can read about the process of making it.
 
@@ -37,16 +37,21 @@ You can use the TOTEM without a case, but [here](/case/) you can find one I made
 ***
 
 ## BUILD GUIDE
-  
+
 The build guide for the TOTEM can be found [here](/docs/buildguide.md).
 
 ***
 
 ## FIRMWARE
 
-[QMK (VIAL) precompiled](/firmware/QMK/) or [QMK source (outdated)](https://github.com/GEIGEIGEIST/qmk-config-totem) for the TOTEM (wired using the XIAO RP2040)\
+[QMK (VIAL) precompiled](/firmware/QMK/) or [QMK (VIAL) source](/firmware/QMK/VIAL_source/) for the TOTEM (wired using the XIAO RP2040)\
 [ZMK precompiled](/firmware/ZMK/) or [ZMK source (outdated)](https://github.com/GEIGEIGEIST/zmk-config-totem) for the TOTEM (wireless using the XIAO BLE)
 
+***
+
+## BUY
+
+You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (based in Germany)
 
 ***
 
@@ -61,19 +66,7 @@ This is the TOTEM in a black resin case
 This is the TOTEM with a black resin tenting bottom plate
 
 ![TOTEM black resin tenting](/docs/images/TOTEM_black_tenting_example.jpg)\
-![TOTEM black resin tenting](/docs/images/TOTEM_black_tenting_bottom.jpg)
-
-***
-
-## VIDEOS
-
 [Video by *Wolfgang's Channel* showing the tenting system in action](https://youtu.be/rvM2BthjEI4?si=mTJVdPeZstshnDyo)
-
-***
-
-## BUY 
-
-You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/products/geist-totem) (unfortunately Europe only for now)
 
 ***
 
@@ -102,4 +95,3 @@ People who helped me create this board and fix stuff
 
 
 If you build a TOTEM I would be pretty happy to see some pictures. And if you want to leave me a tip you can do this [here](https://ko-fi.com/geigeigeist) (but please don't feel pressured)
-
