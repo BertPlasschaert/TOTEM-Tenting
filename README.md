@@ -2,6 +2,8 @@
 You can find the latest version of the source code [inside the Totem repository](https://github.com/GEIGEIGEIST/TOTEM), where it will continue to be maintained.
 This repo will be archived.
 
+<hr>
+
 
 
 <picture align="center">
